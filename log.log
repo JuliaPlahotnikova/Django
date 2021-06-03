@@ -1,0 +1,152 @@
+INFO 2021-06-03 11:07:50,784 my_middleware 9820 request:<WSGIRequest: GET '/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:55,672 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_backend.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:56,173 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_gamedev.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:56,679 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_devops.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:56,924 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_design.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,091 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_frontend.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,107 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_management.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,310 my_middleware 9820 request:<WSGIRequest: GET '/images/logo3.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,331 my_middleware 9820 request:<WSGIRequest: GET '/images/logo6.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,344 my_middleware 9820 request:<WSGIRequest: GET '/images/logo1.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,384 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_products.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,513 my_middleware 9820 request:<WSGIRequest: GET '/images/logo7.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,530 my_middleware 9820 request:<WSGIRequest: GET '/images/logo8.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,683 my_middleware 9820 request:<WSGIRequest: GET '/images/specty_testing_pO5yeNp.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,733 my_middleware 9820 request:<WSGIRequest: GET '/images/logo2.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,740 my_middleware 9820 request:<WSGIRequest: GET '/images/logo4.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:07:57,866 my_middleware 9820 request:<WSGIRequest: GET '/images/logo5.png'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:08:04,000 my_middleware 9820 request:<WSGIRequest: GET '/favicon.ico'>, response: <HttpResponse status_code=404, "text/html; charset=utf-8">
+INFO 2021-06-03 11:09:59,313 my_middleware 1948 request:<WSGIRequest: GET '/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:10:01,756 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_backend.png'>, response: <django.http.response.FileResponse object at 0x00000254D9879EB8>
+INFO 2021-06-03 11:10:02,310 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_gamedev.png'>, response: <django.http.response.FileResponse object at 0x00000254D989B320>
+INFO 2021-06-03 11:10:02,360 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_design.png'>, response: <django.http.response.FileResponse object at 0x00000254D98A1390>
+INFO 2021-06-03 11:10:02,490 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_devops.png'>, response: <django.http.response.FileResponse object at 0x00000254D989B860>
+INFO 2021-06-03 11:10:03,268 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_frontend.png'>, response: <django.http.response.FileResponse object at 0x00000254D9898B00>
+INFO 2021-06-03 11:10:05,583 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_management.png'>, response: <django.http.response.FileResponse object at 0x00000254D98B9B00>
+INFO 2021-06-03 11:10:05,809 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_testing_pO5yeNp.png'>, response: <django.http.response.FileResponse object at 0x00000254D98D43C8>
+INFO 2021-06-03 11:10:06,383 my_middleware 1948 request:<WSGIRequest: GET '/images/logo3.png'>, response: <django.http.response.FileResponse object at 0x00000254D98E9C50>
+INFO 2021-06-03 11:10:06,492 my_middleware 1948 request:<WSGIRequest: GET '/images/logo1.png'>, response: <django.http.response.FileResponse object at 0x00000254D98EB2E8>
+INFO 2021-06-03 11:10:06,578 my_middleware 1948 request:<WSGIRequest: GET '/images/specty_products.png'>, response: <django.http.response.FileResponse object at 0x00000254D98D7908>
+INFO 2021-06-03 11:10:07,451 my_middleware 1948 request:<WSGIRequest: GET '/images/logo6.png'>, response: <django.http.response.FileResponse object at 0x00000254D98A9C18>
+INFO 2021-06-03 11:10:07,583 my_middleware 1948 request:<WSGIRequest: GET '/images/logo7.png'>, response: <django.http.response.FileResponse object at 0x00000254D98C64A8>
+INFO 2021-06-03 11:10:08,029 my_middleware 1948 request:<WSGIRequest: GET '/images/logo8.png'>, response: <django.http.response.FileResponse object at 0x00000254D98D4550>
+INFO 2021-06-03 11:10:08,430 my_middleware 1948 request:<WSGIRequest: GET '/images/logo2.png'>, response: <django.http.response.FileResponse object at 0x00000254D98F4828>
+INFO 2021-06-03 11:10:08,441 my_middleware 1948 request:<WSGIRequest: GET '/images/logo4.png'>, response: <django.http.response.FileResponse object at 0x00000254D98EB438>
+INFO 2021-06-03 11:10:08,569 my_middleware 1948 request:<WSGIRequest: GET '/images/logo5.png'>, response: <django.http.response.FileResponse object at 0x00000254D96FFF60>
+INFO 2021-06-03 11:10:24,878 my_middleware 1948 request:<WSGIRequest: GET '/vacancies/cat/backend/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:10:37,539 my_middleware 1948 request:<WSGIRequest: GET '/vacancies/3/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:11:13,041 my_middleware 1948 request:<WSGIRequest: GET '/about/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:11:35,012 my_middleware 1948 request:<WSGIRequest: GET '/register/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:11:38,562 my_middleware 1948 request:<WSGIRequest: GET '/register/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:13:08,492 my_middleware 1948 request:<WSGIRequest: POST '/register/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:14:02,782 my_middleware 1948 request:<WSGIRequest: POST '/register/'>, response: <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/login">
+INFO 2021-06-03 11:14:03,783 my_middleware 1948 request:<WSGIRequest: GET '/login'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:14:32,730 my_middleware 1948 request:<WSGIRequest: POST '/login'>, response: <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/">
+INFO 2021-06-03 11:14:40,127 my_middleware 1948 request:<WSGIRequest: GET '/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:14:42,781 my_middleware 1948 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:14:43,801 my_middleware 1948 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:15:00,493 my_middleware 1948 request:<WSGIRequest: GET '/profile'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:15:01,712 my_middleware 1948 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:15:01,731 my_middleware 1948 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:18:24,748 my_middleware 1948 request:<WSGIRequest: GET '/myresume/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:18:25,232 my_middleware 1948 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:18:25,249 my_middleware 1948 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:18:35,437 my_middleware 1948 request:<WSGIRequest: GET '/companies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:18:36,294 my_middleware 1948 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:18:36,312 my_middleware 1948 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:30:13,351 my_middleware 12112 request:<WSGIRequest: GET '/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:30:17,611 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:30:17,911 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:30:23,359 my_middleware 12112 request:<WSGIRequest: GET '/companies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:30:24,099 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:30:24,129 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:30:36,790 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:30:37,458 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:30:37,485 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:30:42,918 my_middleware 12112 request:<WSGIRequest: GET '/companies/1/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:30:43,548 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:30:43,582 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:30:57,876 my_middleware 12112 request:<WSGIRequest: GET '/companies/2/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:30:58,691 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:30:58,711 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:31:04,829 my_middleware 12112 request:<WSGIRequest: GET '/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:31:05,950 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:31:05,969 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:31:14,790 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/cat/backend/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:31:15,425 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:31:15,442 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:31:18,960 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/4/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:31:20,685 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:31:20,707 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+ERROR 2021-06-03 11:31:55,918 my_middleware 12112 Messages form middleware: Excpetion is NOT NULL constraint failed: vacancies_application.written_phone
+INFO 2021-06-03 11:31:56,619 my_middleware 12112 request:<WSGIRequest: POST '/vacancies/4/'>, response: <HttpResponse status_code=500, "text/html">
+INFO 2021-06-03 11:32:11,672 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:32:12,558 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:32:12,585 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:32:16,322 my_middleware 12112 request:<WSGIRequest: GET '/myresume/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:32:16,651 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:32:16,678 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:33:34,311 my_middleware 12112 request:<WSGIRequest: POST '/myresume/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:33:34,722 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:33:34,752 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:33:39,458 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:33:39,669 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:33:39,702 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:33:44,320 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/1/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:33:44,707 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:33:44,735 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:34:04,808 my_middleware 12112 request:<WSGIRequest: GET '/myresume/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:34:05,322 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:34:05,368 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:34:22,663 my_middleware 12112 request:<WSGIRequest: POST '/myresume/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:34:23,259 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:34:23,285 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:34:29,130 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:34:30,031 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:34:30,069 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:34:32,901 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/1/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:34:33,846 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:34:33,869 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:35:15,546 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:35:16,047 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:35:16,079 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:35:25,042 my_middleware 12112 request:<WSGIRequest: POST '/mycompany/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:35:26,525 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:35:26,572 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:36:25,767 my_middleware 12112 request:<WSGIRequest: POST '/mycompany/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:36:26,611 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:36:26,630 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+ERROR 2021-06-03 11:36:27,158 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\company.png” does not exist
+INFO 2021-06-03 11:36:27,186 my_middleware 12112 request:<WSGIRequest: GET '/images/company.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:36:32,203 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/vacancies/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:36:33,068 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:36:33,095 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:36:38,282 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/vacancies/create'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+INFO 2021-06-03 11:36:39,193 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/vacancies/create'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:36:39,998 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:36:40,015 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:37:37,089 my_middleware 12112 request:<WSGIRequest: POST '/mycompany/vacancies/create'>, response: <HttpResponseRedirect status_code=302, "text/html; charset=utf-8", url="/mycompany/vacancies">
+INFO 2021-06-03 11:37:37,570 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/vacancies/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:37:38,737 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:37:38,757 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:37:45,076 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:37:46,039 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:37:46,069 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+ERROR 2021-06-03 11:37:46,435 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\company.png” does not exist
+INFO 2021-06-03 11:37:46,451 my_middleware 12112 request:<WSGIRequest: GET '/images/company.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:38:18,262 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:38:18,700 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+ERROR 2021-06-03 11:38:18,700 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\company.png” does not exist
+INFO 2021-06-03 11:38:18,720 my_middleware 12112 request:<WSGIRequest: GET '/images/company.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:38:18,744 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:39:11,198 my_middleware 12112 request:<WSGIRequest: GET '/mycompany/vacancies/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:39:11,499 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:39:11,525 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:39:32,690 my_middleware 12112 request:<WSGIRequest: GET '/about/'>, response: <HttpResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:39:32,973 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:39:32,994 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+INFO 2021-06-03 11:39:45,100 my_middleware 12112 request:<WSGIRequest: GET '/vacancies/'>, response: <TemplateResponse status_code=200, "text/html; charset=utf-8">
+ERROR 2021-06-03 11:39:58,939 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\check.png” does not exist
+INFO 2021-06-03 11:39:59,008 my_middleware 12112 request:<WSGIRequest: GET '/images/check.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
+ERROR 2021-06-03 11:40:00,140 my_middleware 12112 Messages form middleware: Excpetion is “C:\Users\Admin\Desktop\Jumanji-master\static\images\company.png” does not exist
+INFO 2021-06-03 11:40:00,166 my_middleware 12112 request:<WSGIRequest: GET '/images/company.png'>, response: <HttpResponseNotFound status_code=404, "text/html">
